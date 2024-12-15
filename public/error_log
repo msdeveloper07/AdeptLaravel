@@ -1,0 +1,77 @@
+[22-Oct-2015 05:28:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/verosion/public_html/adept/storage/framework/views/adf9d0becdf9e047b3895e436fdc919c on line 38
+[23-Oct-2015 04:10:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/verosion/public_html/adept/storage/framework/views/adf9d0becdf9e047b3895e436fdc919c on line 38
+[23-Oct-2015 13:26:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:26:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:26:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:26:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:26:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:27:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:27:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:27:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:27:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[23-Oct-2015 13:27:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/0ac4a4495ff0343ad98651c04ec2e985 on line 11
+[24-Oct-2015 04:07:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/verosion/public_html/adept/app/Http/Controllers/UserGroupPermissionController.php on line 121
+[26-Oct-2015 13:15:34 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilites::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[26-Oct-2015 13:18:17 UTC] PHP Fatal error:  Class 'GuzzleHttp\Client' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Mail/TransportManager.php on line 100
+[27-Oct-2015 07:18:25 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:18:26 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:18:26 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:02 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:36 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:55 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:55 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:56 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:59 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:20:59 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 07:21:00 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilities' not found in /home/verosion/public_html/adept/storage/framework/views/0a8b09486598b5a8b6a3578285b29a7c on line 70
+[27-Oct-2015 13:00:17 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilites' not found in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 23
+[27-Oct-2015 13:11:08 UTC] PHP Fatal error:  Class 'GuzzleHttp\Client' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Mail/TransportManager.php on line 100
+[29-Oct-2015 13:05:29 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilites' not found in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 24
+[31-Oct-2015 04:30:27 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilites' not found in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 24
+[31-Oct-2015 04:31:52 UTC] PHP Fatal error:  Class 'App\Libraries\ZnUtilites' not found in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 24
+[03-Nov-2015 12:48:32 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-Nov-2015 12:48:46 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-Nov-2015 12:48:53 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-Nov-2015 12:48:58 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-Nov-2015 12:52:18 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-Nov-2015 14:36:04 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-Nov-2015 14:36:09 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[04-Nov-2015 04:11:41 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[04-Nov-2015 04:12:11 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[04-Nov-2015 04:12:25 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[04-Nov-2015 04:12:30 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[04-Nov-2015 04:12:38 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[04-Nov-2015 04:28:46 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-Nov-2015 04:32:19 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-Nov-2015 04:32:34 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-Nov-2015 04:32:37 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-Nov-2015 06:07:31 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-Nov-2015 06:07:34 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[12-Nov-2015 05:38:42 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[12-Nov-2015 05:38:42 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[16-Nov-2015 06:05:22 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[19-Nov-2015 06:01:34 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::format_date() in /home/verosion/public_html/adept/storage/framework/views/5f24a60680a8fc815dd77cdb37f74cf3 on line 104
+[19-Nov-2015 06:01:35 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::format_date() in /home/verosion/public_html/adept/storage/framework/views/5f24a60680a8fc815dd77cdb37f74cf3 on line 104
+[19-Nov-2015 06:04:08 UTC] PHP Fatal error:  Class 'GuzzleHttp\Client' not found in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Mail/TransportManager.php on line 100
+[19-Nov-2015 13:28:21 UTC] PHP Fatal error:  Class 'App\Models\Delivery' not found in /home/verosion/public_html/adept/app/Http/Controllers/DeliveriesController.php on line 28
+[23-Nov-2015 13:29:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/verosion/public_html/adept/app/Http/Controllers/DeliveriesController.php on line 244
+[23-Nov-2015 13:29:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/verosion/public_html/adept/app/Http/Controllers/DeliveriesController.php on line 244
+[24-Nov-2015 13:27:01 UTC] PHP Fatal error:  Class 'App\Models\Item' not found in /home/verosion/public_html/adept/app/Http/Controllers/ItemsController.php on line 25
+[25-Nov-2015 13:23:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/verosion/public_html/adept/app/Http/Controllers/DeliveriesController.php on line 471
+[09-Dec-2015 08:06:52 UTC] PHP Fatal error:  Method Swift_Message::__toString() must not throw an exception in /home/verosion/public_html/adept/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 0
+[10-Dec-2015 13:44:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/verosion/public_html/adept/storage/framework/views/cdd603e4601234144cf5b4a9f91620d7 on line 207
+[10-Dec-2015 13:44:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/verosion/public_html/adept/storage/framework/views/cdd603e4601234144cf5b4a9f91620d7 on line 207
+[11-Dec-2015 12:14:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/adept/storage/framework/views/3493014f26269b170dd18dde0e8266a6 on line 86
+[14-Jan-2016 12:39:55 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::push_css_files() in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 319
+[14-Jan-2016 12:40:12 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::push_css_files() in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 319
+[14-Jan-2016 12:40:14 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::push_css_files() in /home/verosion/public_html/adept/app/Http/Controllers/JobsController.php on line 319
+[16-Jan-2016 07:59:01 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/verosion/public_html/adept/storage/framework/views/8f4caa2fcbb567286c9e0d11f1d7e791 on line 72
+[16-Jan-2016 07:59:04 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/verosion/public_html/adept/storage/framework/views/8f4caa2fcbb567286c9e0d11f1d7e791 on line 72
+[16-Jan-2016 07:59:28 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/verosion/public_html/adept/storage/framework/views/8f4caa2fcbb567286c9e0d11f1d7e791 on line 72
+[12-Feb-2016 10:31:30 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[12-Feb-2016 10:32:09 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[12-Feb-2016 10:36:59 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[12-Feb-2016 10:37:26 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[12-Feb-2016 10:38:07 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[12-Feb-2016 10:38:54 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
+[12-Feb-2016 10:39:02 UTC] PHP Fatal error:  Call to undefined method App\Libraries\ZnUtilities::random_string() in /home/verosion/public_html/adept/app/Http/Controllers/UserController.php on line 66
